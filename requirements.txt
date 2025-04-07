@@ -1,0 +1,6 @@
+#txt
+matplotlib
+numpy
+
+u can generate it with:
+#pip freeze > requirements.txt
